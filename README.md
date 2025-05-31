@@ -90,8 +90,8 @@ I enjoy writing clean, scalable code and working in agile environments. I'm alwa
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Illera1999&show_icons=true&theme=algolia&count_private=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illera1999&layout=compact&theme=algolia" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Illera1999&show_icons=true&theme=algolia&count_private=true" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Illera1999&layout=compact&theme=algolia&exclude_repo=cpp_big_project,old_cmake" height="170"/>
 </p>
 
 ---
