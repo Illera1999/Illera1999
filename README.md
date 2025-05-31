@@ -57,7 +57,16 @@ I enjoy writing clean, scalable code and working in agile environments. I'm alwa
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white"/>
 </p>
+
 ---
+
+### ✨ Featured Projects
+
+| App | Tech | Enlace |
+|-----|------|--------|
+| <img src="https://raw.githubusercontent.com/Illera1999/Flutter_Course/main/project/cinemapedia/result/Home.png" width="120"/> | Flutter · Dart | **[CinePedia](https://github.com/Illera1999/Flutter_Course/tree/main/project/cinemapedia)** |
+
+<!-- puedes añadir más proyectos en filas nuevas -->
 
 #### 🧩 Skills
 
