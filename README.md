@@ -62,9 +62,18 @@ I enjoy writing clean, scalable code and working in agile environments. I'm alwa
 
 ### ✨ Featured Projects
 
-| App | Tech | Enlace |
-|-----|------|--------|
-| <img src="https://raw.githubusercontent.com/Illera1999/Flutter_Course/main/project/cinemapedia/result/Home.png" width="120"/> | Flutter · Dart | **[CinePedia](https://github.com/Illera1999/Flutter_Course/tree/main/project/cinemapedia)** |
+| App                   | Tech                | Enlace |
+|------------------------|---------------------|--------|
+| Hello World App        | Flutter · Dart      | [hello_world_app](https://github.com/Illera1999/Flutter_Course/tree/main/project/hello_world_app) |
+| Widgets App            | Flutter · Dart      | [widgets_app](https://github.com/Illera1999/Flutter_Course/tree/main/project/widgets_app) |
+| Yes No App             | Flutter · Dart      | [yes_no_app](https://github.com/Illera1999/Flutter_Course/tree/main/project/yes_no_app) |
+| Forms Flutter App      | Flutter · Dart      | [forms_flutter_app](https://github.com/Illera1999/Flutter_Course/tree/main/project/forms_flutter_app) |
+| Push App               | Flutter · Dart      | [push_app](https://github.com/Illera1999/Flutter_Course/tree/main/project/push_app) |
+| Teslo Shop (Frontend)  | Flutter · Dart      | [teslo_shop](https://github.com/Illera1999/Flutter_Course/tree/main/project/teslo_shop) |
+| Teslo Shop (Backend)   | Node.js (API REST)  | [teslo-shop-backend](https://github.com/Illera1999/Flutter_Course/tree/main/project/teslo-shop-backend) |
+| Toktik                 | Flutter · Dart      | [toktik](https://github.com/Illera1999/Flutter_Course/tree/main/project/toktik) |
+| CinePedia              | Flutter · Dart      | [cinemapedia](https://github.com/Illera1999/Flutter_Course/tree/main/project/cinemapedia) |
+| Firebase Token Auth    | Flutter · Firebase  | [firebase-get-bearer-token-main](https://github.com/Illera1999/Flutter_Course/tree/main/project/firebase-get-bearer-token-main) |
 
 <!-- puedes añadir más proyectos en filas nuevas -->
 
